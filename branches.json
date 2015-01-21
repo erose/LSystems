@@ -1,0 +1,9 @@
+{
+    "distance": 5,
+    "left_angle": 25,
+    "right_angle": 25,
+    "start_str": "F",
+    "rules": {
+        "F": "F[-F]F[+F][F]"
+    }
+}

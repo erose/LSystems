@@ -1,0 +1,10 @@
+{
+    "distance": 10,
+    "left_angle": 90,
+    "right_angle": 90,
+    "start_str": "FX",
+    "rules": {
+        "X": "X+YF+",
+        "Y": "-FX-Y"
+    }
+}
